@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="Beaber's Wedding" content="Beaber's Wedding Website">
-<link rel="shortcut icon" href="images/B.svg" type="image/x-icon">
+<link rel="shortcut icon" href="images/B.jpg" type="image/jpg">
 
 <!-- Custom CSS -->
 <link href="lib/dependencies/css/style.css" rel="stylesheet"> 
@@ -66,10 +66,10 @@
 <div class="row-9 justify-content-center">
 	<div class="jumbotron jumbtron-reg-xl d-none d-xl-block img-shadow">
 		<div class="row-3 row-reg-xl  justify-content-center align-items-center img-shadow-grey">
-			<a href="http://tgt.gifts/eca36b14017a46b99998c5862314730b" target="_blank"><img src="images/TargetIcon.svg" class="img-fluid img-reg" /></a>
+			<a href="http://tgt.gifts/eca36b14017a46b99998c5862314730b" target="_blank"><img src="images/TargetIcon.png" class="img-fluid img-reg" /></a>
 		</div>
 		<div class="row-3 row-reg-xl  justify-content-center align-items-center img-shadow-grey">
-			<a href="https://www.bedbathandbeyond.com/store/giftregistry/viewregistryguest/546681669" target="_blank"><img src="images/BBBIcon.svg" class="img-fluid img-reg" /></a>
+			<a href="https://www.bedbathandbeyond.com/store/giftregistry/viewregistryguest/546681669" target="_blank"><img src="images/BBBIcon.jpg" class="img-fluid img-reg" /></a>
 		</div>
 		<div class="row-6 row-reg-xl text-center">
 			<p class="font-kalam" align="center">
@@ -79,10 +79,10 @@
 	</div>
 	<div class="jumbotron jumbtron-reg d-block d-xl-none">
 		<div class="row-3 row-reg  justify-content-center align-items-center img-shadow-grey">
-			<a href="http://tgt.gifts/eca36b14017a46b99998c5862314730b" target="_blank"><img src="images/TargetIcon.svg" class="img-fluid img-reg" /></a>
+			<a href="http://tgt.gifts/eca36b14017a46b99998c5862314730b" target="_blank"><img src="images/TargetIcon.png" class="img-fluid img-reg" /></a>
 		</div>
 		<div class="row-3 row-reg  justify-content-center align-items-center img-shadow-grey">
-			<a href="https://www.bedbathandbeyond.com/store/giftregistry/viewregistryguest/546681669" target="_blank"><img src="images/BBBIcon.svg" class="img-fluid img-reg" /></a>
+			<a href="https://www.bedbathandbeyond.com/store/giftregistry/viewregistryguest/546681669" target="_blank"><img src="images/BBBIcon.jpg" class="img-fluid img-reg" /></a>
 		</div>
 		<div class="row-6 row-reg text-center mt-1">
 			<p class="font-kalam" align="center">

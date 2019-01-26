@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="Beaber's Wedding" content="Beaber's Wedding Website">
-<link rel="shortcut icon" href="images/B.svg" type="image/x-icon">
+<link rel="shortcut icon" href="images/B.jpg" type="image/jpg">
 
 <!-- Bootstrap & Style links -->
 <link href="lib/dependencies/css/bootstrap.min.css" rel="stylesheet">

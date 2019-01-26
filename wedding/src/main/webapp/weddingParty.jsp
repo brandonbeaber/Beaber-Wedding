@@ -4,7 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<!-- <title>Beaber's Wedding</title> -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="Beaber's Wedding" content="Beaber's Wedding Website">
+<link rel="shortcut icon" href="images/B.jpg" type="image/jpg">
 
 <!-- Bootstrap & Style links -->
 <link href="lib/dependencies/css/bootstrap.min.css" rel="stylesheet">
@@ -181,7 +183,7 @@
 				</div>
 				<div class="col-lg-6 col-xs-12 wp-img align-items-center justify-content-center">
 				  <img class="rounded center wp-img2" src="images/Aaron.jpg">
-				  <p class="font-dancing centertxt">Aaron Constentino</p>
+				  <p class="font-dancing centertxt">Aaron Cosentino</p>
 				  <p class="font-dancing2 centertxt">Friend of the Groom</p>
 				</div>					
 			</div><!-- /.row -->
@@ -194,7 +196,7 @@
 				</div>	
 				<div class="col-lg-6 col-xs-12 wp-img align-items-center justify-content-center">
 				  <img class="rounded center wp-img2" src="images/Granny.jpg">
-				  <p class="font-dancing centertxt">Zach Garndquist</p>
+				  <p class="font-dancing centertxt">Zach Grandquist</p>
 				  <p class="font-dancing2 centertxt">Friend of the Groom</p>
 				</div>							  
 			</div><!-- /.row -->
