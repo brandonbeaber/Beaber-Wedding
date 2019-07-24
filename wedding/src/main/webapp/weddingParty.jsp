@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--  <meta name="viewport" content="width=device-width, initial-scale=1"> --> 
 <meta name="Beaber's Wedding" content="Beaber's Wedding Website">
 <link rel="shortcut icon" href="images/B.jpg" type="image/jpg">
 
